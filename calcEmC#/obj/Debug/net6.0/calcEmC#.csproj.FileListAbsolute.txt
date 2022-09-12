@@ -1,0 +1,15 @@
+C:\Users\vivi_\OneDrive\Área de Trabalho\calcEmC#\bin\Debug\net6.0\calcEmC#.exe
+C:\Users\vivi_\OneDrive\Área de Trabalho\calcEmC#\bin\Debug\net6.0\calcEmC#.deps.json
+C:\Users\vivi_\OneDrive\Área de Trabalho\calcEmC#\bin\Debug\net6.0\calcEmC#.runtimeconfig.json
+C:\Users\vivi_\OneDrive\Área de Trabalho\calcEmC#\bin\Debug\net6.0\calcEmC#.dll
+C:\Users\vivi_\OneDrive\Área de Trabalho\calcEmC#\bin\Debug\net6.0\calcEmC#.pdb
+C:\Users\vivi_\OneDrive\Área de Trabalho\calcEmC#\obj\Debug\net6.0\calcEmC#.csproj.AssemblyReference.cache
+C:\Users\vivi_\OneDrive\Área de Trabalho\calcEmC#\obj\Debug\net6.0\calcEmC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vivi_\OneDrive\Área de Trabalho\calcEmC#\obj\Debug\net6.0\calcEmC#.AssemblyInfoInputs.cache
+C:\Users\vivi_\OneDrive\Área de Trabalho\calcEmC#\obj\Debug\net6.0\calcEmC#.AssemblyInfo.cs
+C:\Users\vivi_\OneDrive\Área de Trabalho\calcEmC#\obj\Debug\net6.0\calcEmC#.csproj.CoreCompileInputs.cache
+C:\Users\vivi_\OneDrive\Área de Trabalho\calcEmC#\obj\Debug\net6.0\calcEmC#.dll
+C:\Users\vivi_\OneDrive\Área de Trabalho\calcEmC#\obj\Debug\net6.0\refint\calcEmC#.dll
+C:\Users\vivi_\OneDrive\Área de Trabalho\calcEmC#\obj\Debug\net6.0\calcEmC#.pdb
+C:\Users\vivi_\OneDrive\Área de Trabalho\calcEmC#\obj\Debug\net6.0\calcEmC#.genruntimeconfig.cache
+C:\Users\vivi_\OneDrive\Área de Trabalho\calcEmC#\obj\Debug\net6.0\ref\calcEmC#.dll
